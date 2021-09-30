@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TinesUndervisning</title>
+</head>
+<body>
+<div class="header">
+    <h1>Tines Undervisning</h1>
+</div>
+<div class="mainplace">
+    <span class="menu">
+        <div>
+            <ul id="menulist" class="menulist">
+                <li><a href="javascript:;" onclick="firstMovie()">First Movie</a></li>
+                <li><a href="javascript:;" onclick="randomMovie()">Random</a></li>
+                <li><a href="javascript:;" onclick="topTen()">Top 10</a></li>
+                <li><a href="javascript:;" onclick="topTenRandom()">Top 10 Random</a></li>
+                <li><a href="javascript:;" onclick="comedieswithaward()">Comedies With Awards</a></li>
+                <li><a href="javascript:;" onclick="emptytable()">Clear</a></li>
+            </ul>
+        </div>
+    </span>
+    <span class="data">
+        <div>
+            <table>
+                <thead>
+                <tr>
+                    <th>Year</th>
+                    <th>Length</th>
+                    <th>Title</th>
+                    <th>Subject</th>
+                    <th>Popularity</th>
+                    <th>Awards</th>
+                </tr>
+                </thead>
+                <tbody id="dataTable">
+
+                </tbody>
+            </table>
+        </div>
+    </span>
+</div>
+</body>
+<link rel="stylesheet" href="style.css">
+<script src="scriptIndex.js"></script>
+</html>

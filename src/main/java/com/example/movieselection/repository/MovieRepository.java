@@ -1,6 +1,6 @@
-package com.example.tineundervisning.repository;
+package com.example.movieselection.repository;
 
-import com.example.tineundervisning.models.Movie;
+import com.example.movieselection.models.Movie;
 import org.springframework.stereotype.Component;
 
 import java.sql.Connection;

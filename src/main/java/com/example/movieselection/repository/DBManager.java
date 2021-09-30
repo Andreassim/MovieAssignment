@@ -1,4 +1,4 @@
-package com.example.tineundervisning.repository;
+package com.example.movieselection.repository;
 
 import java.io.FileInputStream;
 import java.io.IOException;

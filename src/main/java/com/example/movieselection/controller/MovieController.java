@@ -1,6 +1,6 @@
-package com.example.tineundervisning.controller;
+package com.example.movieselection.controller;
 
-import com.example.tineundervisning.service.MovieService;
+import com.example.movieselection.service.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

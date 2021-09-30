@@ -1,10 +1,10 @@
-package com.example.tineundervisning;
+package com.example.movieselection;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TineUndervisningApplicationTests {
+class MovieSelectionApplicationTests {
 
     @Test
     void contextLoads() {

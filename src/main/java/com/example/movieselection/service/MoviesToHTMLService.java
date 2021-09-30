@@ -1,6 +1,6 @@
-package com.example.tineundervisning.service;
+package com.example.movieselection.service;
 
-import com.example.tineundervisning.models.Movie;
+import com.example.movieselection.models.Movie;
 
 import java.util.ArrayList;
 

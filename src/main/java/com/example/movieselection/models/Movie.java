@@ -1,4 +1,4 @@
-package com.example.tineundervisning.models;
+package com.example.movieselection.models;
 
 public class Movie {
     private int year;

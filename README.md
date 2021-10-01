@@ -24,7 +24,7 @@ To use MovieSelector follow these steps:
 
 ## Contributing to MovieSelector
 
-As this is a school assignment, i will probably not continue with this project in the future.
+As this is a school assignment, i will probably not continue with this project in the future and wont be maintaining it.
 
 ## Contributors
 
